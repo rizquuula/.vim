@@ -25,7 +25,7 @@ set tabstop=4
 set expandtab
 
 " Do not wrap lines. Allow long lines to extend as far as the line goes.
-set nowrap
+" set nowrap
 
 " Show partial command you type in the last line of the screen.
 set showcmd
